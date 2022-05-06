@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Raleway:wght@100&display=swap');
+
+
+*{
+    background-color: hsl(6017, 100%,30%);
+    font-size: 20px;
+}
+
+.page-header{
+    font-size: 40px;
+    text-transform: capitalize;
+    padding:30px;
+    font-style: italic;
+    font-family: 'Koulen', 'cursive';
+    text-align: center;    
+}
